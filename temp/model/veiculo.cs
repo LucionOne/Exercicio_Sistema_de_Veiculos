@@ -30,4 +30,5 @@ public abstract class Veiculo
         modelo = "";
         anoFabricacao = 0;
     }
+    public abstract void ExibirInformacoes();
 }

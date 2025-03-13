@@ -12,3 +12,4 @@ C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_______________________
 C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.pdb
 C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.genruntimeconfig.cache
 C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\ref\temp.dll
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.sourcelink.json

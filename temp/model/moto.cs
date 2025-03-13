@@ -14,7 +14,7 @@ public class Moto : Veiculo
     {
         cilindradas = 0;
     }
-    public void ExibirInformacoes()
+    public override void ExibirInformacoes()
     {
         Console.WriteLine("Marca: " + Marca);
         Console.WriteLine("Modelo: " + Modelo);
