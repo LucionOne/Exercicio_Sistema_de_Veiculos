@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\bin\Debug\net9.0\temp.exe
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\bin\Debug\net9.0\temp.deps.json
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\bin\Debug\net9.0\temp.runtimeconfig.json
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\bin\Debug\net9.0\temp.dll
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\bin\Debug\net9.0\temp.pdb
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.AssemblyInfo.cs
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.dll
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\refint\temp.dll
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.pdb
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\temp.genruntimeconfig.cache
+C:\Users\guilh\Documents\Facul\Prog. Orientada a Objetos\_____________________________________\temp proj\temp\obj\Debug\net9.0\ref\temp.dll
